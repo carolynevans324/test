@@ -1,7 +1,9 @@
 # test
 <html>
 <head>
-  <title> hello </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>first website ever</title>
 
 this is my first website <b> so excited</b>
 
